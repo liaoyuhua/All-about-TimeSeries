@@ -1,4 +1,4 @@
-# All-about-Time-Series
+# All-about-TimeSeries
 Some important topics about Time Series, like predictability, forecasting, clustering, deep learning, etc.
 
 Contents:
