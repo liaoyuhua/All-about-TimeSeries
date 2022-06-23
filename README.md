@@ -4,6 +4,7 @@ Some important topics about Time Series, like predictability, forecasting, clust
 Contents:
 - Predictability
 - Forecasting
+- Classification
 - Clustering
 - Deep Learning
     - RNN
@@ -16,3 +17,4 @@ Contents:
     - Pretraining & Fine-tuning
 - Reiforcement Learning
 - Anomaly Detection
+- Unevenly-Spaced Time Series
