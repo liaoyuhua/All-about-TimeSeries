@@ -20,4 +20,3 @@ Contents:
 - Unevenly-Spaced Time Series
 - Interpretability
 -----------------------------------------
-<p align="right">Yuhua</p>
