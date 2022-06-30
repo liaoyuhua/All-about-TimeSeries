@@ -7,6 +7,7 @@ This framework consists of three main parts:
 1. TimeSeriesDataSet
 2. BaseModel
 3. Trainer
+
 Regression, classification, and clustering can be easily implemented and trained by GTA.
 
 Contents:
